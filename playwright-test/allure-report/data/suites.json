@@ -1,0 +1,63 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "chrome@latest:Windows 10@browserstack",
+    "children" : [ {
+      "name" : "test_1.spec.js",
+      "children" : [ {
+        "name" : "feature foo",
+        "children" : [ {
+          "name" : "test 1",
+          "uid" : "d78f196ebd591202",
+          "parentUid" : "f35630c41a18d77e5852ce7569445383",
+          "status" : "passed",
+          "time" : {
+            "start" : 1655976755285,
+            "stop" : 1655976783214,
+            "duration" : 27929
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f35630c41a18d77e5852ce7569445383"
+      } ],
+      "uid" : "c2943e0260a287cf544cb919ff2ad4a6"
+    } ],
+    "uid" : "86ca6edb7c2d6021c041d07a1b0db370"
+  }, {
+    "name" : "chrome@latest-beta:OSX Big Sur@browserstack",
+    "children" : [ {
+      "name" : "test_1.spec.js",
+      "children" : [ {
+        "name" : "feature foo",
+        "children" : [ {
+          "name" : "test 1",
+          "uid" : "e7034c050148c7e2",
+          "parentUid" : "1b2eaf288baf8ac1dd199ce60c5de3ec",
+          "status" : "passed",
+          "time" : {
+            "start" : 1655976755285,
+            "stop" : 1655976780148,
+            "duration" : 24863
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "newPassed" : false,
+          "newBroken" : false,
+          "retriesCount" : 0,
+          "retriesStatusChange" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1b2eaf288baf8ac1dd199ce60c5de3ec"
+      } ],
+      "uid" : "2deeedfe3af73ebfb1c0c3b660bb05cc"
+    } ],
+    "uid" : "302ebda757c49503ed0cbd3f8720b91d"
+  } ],
+  "name" : "suites"
+}

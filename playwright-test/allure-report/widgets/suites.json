@@ -1,0 +1,26 @@
+{
+  "total" : 2,
+  "items" : [ {
+    "uid" : "86ca6edb7c2d6021c041d07a1b0db370",
+    "name" : "chrome@latest:Windows 10@browserstack",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "302ebda757c49503ed0cbd3f8720b91d",
+    "name" : "chrome@latest-beta:OSX Big Sur@browserstack",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

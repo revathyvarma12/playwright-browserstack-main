@@ -1,0 +1,40 @@
+{
+  "chrome@latest-beta:OSX Big Sur@browserstack test_1.spec.js feature foo test 1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e7034c050148c7e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655976755285,
+        "stop" : 1655976780148,
+        "duration" : 24863
+      }
+    } ]
+  },
+  "chrome@latest:Windows 10@browserstack test_1.spec.js feature foo test 1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d78f196ebd591202",
+      "status" : "passed",
+      "time" : {
+        "start" : 1655976755285,
+        "stop" : 1655976783214,
+        "duration" : 27929
+      }
+    } ]
+  }
+}
